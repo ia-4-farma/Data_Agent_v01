@@ -208,7 +208,7 @@ py -m pip install -r requirements.txt
 Ainda no PowerShell:
 
 ```powershell
-streamlit run ai_data_analyst.py
+py -m streamlit run ai_data_analyst.py
 ```
 
 Após alguns segundos, o navegador (Chrome, Edge, etc.) vai abrir automaticamente com a interface do app.
